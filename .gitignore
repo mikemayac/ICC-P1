@@ -1,0 +1,40 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorio de salida de compilación
+/target/
+/build/
+/out/
+/bin/
+
+# Archivos específicos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de configuración de NetBeans
+/nbproject/
+/dist/
+/build.xml
+/manifest.mf
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Directorios locales de Maven
+.mvn/
+mvnw
+mvnw.cmd
