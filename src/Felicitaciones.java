@@ -165,7 +165,6 @@ public class Felicitaciones {
                         + (char)46  // .
         );
 
-        // Línea 4: "De verdad "Muchas felicidades!!""
         System.out.println(
                 ""
                         + (char)68  // D
@@ -202,7 +201,6 @@ public class Felicitaciones {
                         + (char)34  // " (comilla doble)
         );
 
-        // Línea 5: "Un abarazo :)"
         System.out.println(
                 ""
                         + (char)85  // U
